@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_user_role">
+    <sys_user_role action="INSERT_OR_UPDATE">
+        <assignable_by/>
+        <can_delegate>true</can_delegate>
+        <description/>
+        <elevated_privilege>false</elevated_privilege>
+        <grantable>true</grantable>
+        <includes_roles/>
+        <name>x_38046_iplookup.ipaddressinfo_user</name>
+        <requires_subscription>-1</requires_subscription>
+        <scoped_admin>false</scoped_admin>
+        <suffix>ipaddressinfo_user</suffix>
+        <sys_class_name>sys_user_role</sys_class_name>
+        <sys_created_by>vmanwatkar</sys_created_by>
+        <sys_created_on>2022-05-01 13:54:04</sys_created_on>
+        <sys_id>dba1c10c9797411036bbf8b3f153af2c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_38046_iplookup.ipaddressinfo_user</sys_name>
+        <sys_package display_value="IPLookup" source="x_38046_iplookup">491dc3ef9743011036bbf8b3f153afec</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="IPLookup">491dc3ef9743011036bbf8b3f153afec</sys_scope>
+        <sys_update_name>sys_user_role_dba1c10c9797411036bbf8b3f153af2c</sys_update_name>
+        <sys_updated_by>vmanwatkar</sys_updated_by>
+        <sys_updated_on>2022-05-01 13:54:04</sys_updated_on>
+    </sys_user_role>
+</record_update>

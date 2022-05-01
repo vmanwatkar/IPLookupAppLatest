@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_rest_message_fn_headers">
+    <sys_rest_message_fn_headers action="DELETE">
+        <name>Content-Type</name>
+        <rest_message_function display_value="GetIPInfo">462ecbef9743011036bbf8b3f153af26</rest_message_function>
+        <sys_class_name>sys_rest_message_fn_headers</sys_class_name>
+        <sys_created_by>vmanwatkar</sys_created_by>
+        <sys_created_on>2022-04-30 12:34:59</sys_created_on>
+        <sys_id>00c5a72797c3011036bbf8b3f153af8f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Content-Type</sys_name>
+        <sys_package display_value="IPLookup" source="x_38046_iplookup">491dc3ef9743011036bbf8b3f153afec</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="IPLookup">491dc3ef9743011036bbf8b3f153afec</sys_scope>
+        <sys_update_name>sys_rest_message_fn_headers_00c5a72797c3011036bbf8b3f153af8f</sys_update_name>
+        <sys_updated_by>vmanwatkar</sys_updated_by>
+        <sys_updated_on>2022-04-30 12:34:59</sys_updated_on>
+        <value>application/json</value>
+    </sys_rest_message_fn_headers>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="IPLookup">491dc3ef9743011036bbf8b3f153afec</application>
+        <file_path/>
+        <instance_id>a4fa3951db0d81109a4dcac5059619db</instance_id>
+        <instance_name>dev120846</instance_name>
+        <name>sys_rest_message_fn_headers_00c5a72797c3011036bbf8b3f153af8f</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_rest_message_fn_headers"><sys_rest_message_fn_headers action="INSERT_OR_UPDATE"><name>Content-Type</name><rest_message_function display_value="GetIPInfo">462ecbef9743011036bbf8b3f153af26</rest_message_function><sys_class_name>sys_rest_message_fn_headers</sys_class_name><sys_created_by>vmanwatkar</sys_created_by><sys_created_on>2022-04-30 12:34:59</sys_created_on><sys_id>00c5a72797c3011036bbf8b3f153af8f</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Content-Type</sys_name><sys_package display_value="IPLookup" source="x_38046_iplookup">491dc3ef9743011036bbf8b3f153afec</sys_package><sys_policy/><sys_scope display_value="IPLookup">491dc3ef9743011036bbf8b3f153afec</sys_scope><sys_update_name>sys_rest_message_fn_headers_00c5a72797c3011036bbf8b3f153af8f</sys_update_name><sys_updated_by>vmanwatkar</sys_updated_by><sys_updated_on>2022-04-30 12:34:59</sys_updated_on><value>application/json</value></sys_rest_message_fn_headers></record_update>]]></payload>
+        <payload_hash>1300471680</payload_hash>
+        <record_name>Content-Type</record_name>
+        <reverted_from/>
+        <source>851dcbef9743011036bbf8b3f153af1f</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>vmanwatkar</sys_created_by>
+        <sys_created_on>2022-04-30 12:34:59</sys_created_on>
+        <sys_id>c3f5af6797c3011036bbf8b3f153af33</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1807a7795a80000001</sys_recorded_at>
+        <sys_updated_by>vmanwatkar</sys_updated_by>
+        <sys_updated_on>2022-04-30 12:34:59</sys_updated_on>
+        <type>HTTP Headers</type>
+        <update_guid>0ff5af670dc30110b3cc325347537a32</update_guid>
+        <update_guid_history>0ff5af670dc30110b3cc325347537a32:1300471680</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>vmanwatkar</sys_created_by>
+        <sys_created_on>2022-04-30 12:35:28</sys_created_on>
+        <sys_db_object display_value="" name="sys_rest_message_fn_headers">sys_rest_message_fn_headers</sys_db_object>
+        <sys_id>66c0a530a21f47d888ad271f69d26db1</sys_id>
+        <sys_metadata>00c5a72797c3011036bbf8b3f153af8f</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Content-Type</sys_name>
+        <sys_package display_value="IPLookup" source="x_38046_iplookup">491dc3ef9743011036bbf8b3f153afec</sys_package>
+        <sys_parent display_value="GetIPInfo">462ecbef9743011036bbf8b3f153af26</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="IPLookup">491dc3ef9743011036bbf8b3f153afec</sys_scope>
+        <sys_scope_delete display_value="">369aac5384d94c389d819deb121a1240</sys_scope_delete>
+        <sys_update_name>sys_rest_message_fn_headers_00c5a72797c3011036bbf8b3f153af8f</sys_update_name>
+        <sys_update_version display_value="sys_rest_message_fn_headers_00c5a72797c3011036bbf8b3f153af8f">c3f5af6797c3011036bbf8b3f153af33</sys_update_version>
+        <sys_updated_by>vmanwatkar</sys_updated_by>
+        <sys_updated_on>2022-04-30 12:35:28</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
